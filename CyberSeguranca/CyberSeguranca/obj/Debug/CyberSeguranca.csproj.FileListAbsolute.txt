@@ -1,0 +1,6 @@
+C:\Users\logonrm\Desktop\Aula_criptografia\CyberSeguranca\CyberSeguranca\bin\Debug\CyberSeguranca.exe.config
+C:\Users\logonrm\Desktop\Aula_criptografia\CyberSeguranca\CyberSeguranca\bin\Debug\CyberSeguranca.exe
+C:\Users\logonrm\Desktop\Aula_criptografia\CyberSeguranca\CyberSeguranca\bin\Debug\CyberSeguranca.pdb
+C:\Users\logonrm\Desktop\Aula_criptografia\CyberSeguranca\CyberSeguranca\obj\Debug\CyberSeguranca.csprojResolveAssemblyReference.cache
+C:\Users\logonrm\Desktop\Aula_criptografia\CyberSeguranca\CyberSeguranca\obj\Debug\CyberSeguranca.exe
+C:\Users\logonrm\Desktop\Aula_criptografia\CyberSeguranca\CyberSeguranca\obj\Debug\CyberSeguranca.pdb
